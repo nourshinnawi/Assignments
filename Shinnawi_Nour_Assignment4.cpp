@@ -1,7 +1,7 @@
 // Nour Shinnawi
 // 3/4/2018
 // Assignment 4: Text Adventure
-
+// This assignment is practice for using if statements
 #include <iostream>
 using namespace std;
 
