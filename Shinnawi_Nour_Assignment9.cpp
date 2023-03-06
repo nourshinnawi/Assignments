@@ -1,6 +1,7 @@
 // Nour Shinnawi
 // 4/15/18
 // Assignment 9: Verify Login
+// This assignment is practice for using files
 
 #include <iostream>
 #include <string>
