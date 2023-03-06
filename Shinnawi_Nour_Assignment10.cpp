@@ -1,7 +1,7 @@
 // Nour Shinnawi
 // 4/22/18
 // Assignment #10: Arrays
-
+// This is a beginners assignment to practice Arrays
 #include <iostream>
 #include <ctime>
 using namespace std;
