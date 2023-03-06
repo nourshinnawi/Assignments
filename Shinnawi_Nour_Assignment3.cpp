@@ -1,6 +1,7 @@
 // Nour Shinnawi
 // Assignment #3: quadratic Equation
 // 2/25/18
+// This assignment is practice for cmath
 
 #include <iostream>
 #include <cmath>
