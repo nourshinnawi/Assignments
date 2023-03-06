@@ -1,6 +1,7 @@
 // Nour Shinnawi
 // 4/21/18
 // Lab #10: Arrays
+// This assignment is practice for Arrays
 
 #include <iostream>
 #include <ctime>
