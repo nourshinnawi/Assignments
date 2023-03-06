@@ -1,6 +1,7 @@
 // Nour Shinnawi
 // 3/10/18
 // Assignment 5: Loops
+// This assignment is practice for using loops
 
 #include <iostream>
 #include <cstdlib>
