@@ -1,6 +1,7 @@
 // Nour Shinnawi
 // 3/26/18
 // Assignment 7: Functions Drop Low Score
+// This assignment is practice for creating functions
 
 #include <iostream>
 #include <iomanip>
