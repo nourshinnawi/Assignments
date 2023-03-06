@@ -1,6 +1,7 @@
 // Nour Shinnawi
 // 3/18/18
 // Assignment 6: Multiplication Table
+// This assignment is practice for creating columns and rows
 
 #include <iostream>
 using namespace std;
