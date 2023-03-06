@@ -1,6 +1,7 @@
 // Nour Shinnawi
 // Assignment #2: Laser Wars Cantina
 // 2/25/18
+// This assignment is practice for iomanip functions
 
 #include <iostream>
 #include <iomanip>
